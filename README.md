@@ -10,7 +10,7 @@ Feel free to edit however you wish. To recompile to .exe , you'll want https://w
 My AVR_Miner.exe (v2.56) worked well with my first batch of arduinos (metro mini's based on 328p), and I added some very cheap off-brand nano clones which started producing intermittant errors, delays, and changes in difficulty level (from 6 to 16 or 128) after about 40-60 minutes of mining. I could not isolate the problem. I looked at usb power, thermals, usb cables, and my hubs. I learned others were having similar issues (via discord). Restarting the mining app would consistently solve things, but only for another 40-60 minutes. This script kills the miner, then restarts the miner based on the number of minutes listed in the .cfg file (default is 30 minutes). It then loops. Tested, by me, on Win10 home 64bit.
 
 
-***TIP :*** You may mouse over the tray icon for this app to see how many times it has looped since it was first run (maybe useful for unattended mining).
+***TIP :*** You may mouse over the tray icon for this app to see how many times it has looped since it was first run (maybe useful for unattended mining), the current time interval, and a countdown to miner restart.
 
 ***TIP :*** You don't need the .ahk script if you don't plan to recompile this. Just the .exe and .cfg is required.
 
