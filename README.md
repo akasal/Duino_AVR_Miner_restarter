@@ -15,7 +15,8 @@ My AVR_Miner.exe (v2.56) worked well with my first batch of arduinos (metro mini
 ***TIP :*** You don't need the .ahk script if you don't plan to recompile this. Just the .exe and .cfg is required.
 
 
-![trayicon](https://user-images.githubusercontent.com/31149874/126808636-2255766f-ccd4-4f93-a3b9-949ba05ef41b.jpg)
+![duino_tray_screenshot](https://user-images.githubusercontent.com/31149874/126837438-0039413c-10e0-473b-bef3-7c57bee5760d.jpg)
+
 
  
 ***Requirements:***
