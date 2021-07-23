@@ -24,3 +24,5 @@ Requirements:
 2- Run this from the same folder containing AVR_Miner.exe (it relies on being relatively next to the miner)
 
 3- This is Windows only as it has been quickly whipped up in AutoHotKey
+
+![trayicon](https://user-images.githubusercontent.com/31149874/126808356-68c9139c-09d6-4829-b69d-600d1847ea40.jpg)
