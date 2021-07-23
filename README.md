@@ -1,7 +1,7 @@
 # Duino_AVR_Miner_restarter
 A looping 30 minute restarter for the Duino-Coin AVR Miner application
 
-This AHK script has been created by Alpay Kasal of https://Bignoodle.com, alpay at bignoodle.com
+This AHK script has been created by Alpay Kasal of https://Bignoodle.com, alpay at bignoodle.com .
 Feel free to edit however you wish. To recompile to .exe , you'll want https://www.autohotkey.com/
 
 Why was this made?
