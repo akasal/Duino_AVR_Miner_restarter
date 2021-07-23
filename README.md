@@ -18,3 +18,6 @@ Requirements:
 2- Run this from the same folder containing AVR_Miner.exe (it relies on being relatively next to the miner)
 
 3- This is Windows only as it has been quickly whipped up in AutoHotKey
+
+
+Tested, by me, on Win10 home 64bit
