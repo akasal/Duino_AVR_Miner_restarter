@@ -11,6 +11,8 @@ My AVR_Miner.exe (v2.56) worked well with my first batch of arduinos (metro mini
 
 TIP : You may mouse over the tray icon for this app to see how many times it has looped since it was first run (maybe useful for unattended mining).
 
+TIP: You don't need the .ahk script if you don't plan to recompile this. Just the .exe and .cfg is required.
+
 Tested, by me, on Win10 home 64bit
  
  
