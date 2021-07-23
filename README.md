@@ -12,9 +12,9 @@ My AVR_Miner.exe (v2.56) worked well with my first batch of arduinos (metro mini
 TIP : You may mouse over the tray icon for this app to see how many times it has looped since it was first run.
 
 Tested, by me, on Win10 home 64bit
-
-
-
+ 
+ 
+ 
 Requirements:
 
 1- Enter the amount of time between miner restarts in Duino_AVR_Miner_restarter.cfg with a text editor in seconds. The default is 1800 seconds (30 minutes).
