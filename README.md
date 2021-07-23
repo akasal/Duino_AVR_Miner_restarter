@@ -15,7 +15,8 @@ TIP : You may mouse over the tray icon for this app to see how many times it has
 TIP : You don't need the .ahk script if you don't plan to recompile this. Just the .exe and .cfg is required.
 
 
-  
+![trayicon](https://user-images.githubusercontent.com/31149874/126808636-2255766f-ccd4-4f93-a3b9-949ba05ef41b.jpg)
+
  
 Requirements:
 
@@ -24,5 +25,3 @@ Requirements:
 2- Run this from the same folder containing AVR_Miner.exe (it relies on being relatively next to the miner)
 
 3- This is Windows only as it has been quickly whipped up in AutoHotKey
-
-![trayicon](https://user-images.githubusercontent.com/31149874/126808356-68c9139c-09d6-4829-b69d-600d1847ea40.jpg)
