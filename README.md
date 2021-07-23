@@ -13,7 +13,7 @@ You may mouse over the tray icon for this app to see how many times it has loope
 
 Requirements:
 
-1- Enter the amount of time between miner restarts in Duino_AVR_Miner_restarter.cfg with a text editor in seconds. The default is 1800 second (30 minutes).
+1- Enter the amount of time between miner restarts in Duino_AVR_Miner_restarter.cfg with a text editor in seconds. The default is 1800 seconds (30 minutes).
 
 2- Run this from the same folder containing AVR_Miner.exe (it relies on being relatively next to the miner)
 
