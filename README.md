@@ -17,4 +17,5 @@ sleeps for 30minutes and loops.
 Requirements:
 
 1- Run this from the same folder containing AVR_Miner.exe (it relies on being relatively next to the miner)
+
 2- This is Windows only as it has been quickly whipped up in AutoHotKey
