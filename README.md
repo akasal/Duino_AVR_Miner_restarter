@@ -2,6 +2,7 @@
 A looping restarter for the Duino-Coin AVR Miner application
 
 This AHK script has been created by Alpay Kasal of https://Bignoodle.com
+
 contact alpay at bignoodle.com or alpay_kasal on discord
 
 Feel free to edit however you wish. To recompile to .exe , you'll want https://www.autohotkey.com/
