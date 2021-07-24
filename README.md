@@ -2,7 +2,7 @@
 An automated 'restarter' for the Duino-Coin AVR Miner application.
 
 This AHK script has been created by Alpay Kasal of https://Bignoodle.com .
-Contact alpay at bignoodle.com or alpay_kasal on discord.
+Contact alpay at bignoodle.com or ALduino on discord.
 Feel free to edit however you wish. To recompile to .exe , you'll want https://www.autohotkey.com/
 
 ***Why was this made?***
