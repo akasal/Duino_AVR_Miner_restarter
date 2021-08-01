@@ -12,7 +12,7 @@ My AVR_Miner.exe (v2.56) worked well with my first batch of arduinos (metro mini
 
 ***TIP :*** You may mouse over the tray icon for this app to see how many times it has looped since it was first run (maybe useful for unattended mining), the current time interval, and a countdown to miner restart.
 
-***TIP :*** You don't need the .ahk script if you don't plan to recompile this. Just the .exe and .cfg is required.
+***TIP :*** You don't need the .ahk script if you don't plan to recompile this. Just the .exe, .cfg, and .ico is required.
 
 
 ![duino_tray_screenshot](https://user-images.githubusercontent.com/31149874/126837438-0039413c-10e0-473b-bef3-7c57bee5760d.jpg)
